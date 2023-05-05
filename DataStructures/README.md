@@ -1,4 +1,5 @@
 ## Data Structures
+<br>
 
 ### Types of Data Structures:
 <br>
@@ -8,6 +9,7 @@
 <li>
 <strong>Primitive</strong>
 <ul>
+<br>
 <li>Integer</li>
 <li>Float</li>
 <li>Character</li>
@@ -23,7 +25,7 @@
 <strong>Non Primitive</strong>
 <ul>
 
-
+<br>
 <li>
 Linear
 <ul>

@@ -2,14 +2,15 @@
 <br>
 
 
-### What are Data Structures?
+### What are Data Structures ?
 
 #### a specialized format for organizing, processing, retrieving and storing data.
 #### <strong>or</strong>
 #### a different ways of organizing data on the computer, that can be used effectively.
 <br>
+<br>
 
-### What is an algorithm?
+### What is an algorithm ?
 
 #### a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
 #### <strong>or</strong>
@@ -17,7 +18,7 @@
 <br>
 <br>
 
-### Why are Data Structures and Algorithms important?
+### Why are Data Structures and Algorithms important ?
 
 #### Data structures allow us to organize and store data, while algorithms allow us to process that data in a meaningful way.
 #### Data structures and algorithms (DSA) goes through solutions to standard problems in detail and gives you an insight into how efficient it is to use each one of them.

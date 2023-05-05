@@ -1,4 +1,5 @@
 ## Algorithms 
+<br>
 
 ### Types of Algorithms:
 - Recursive Algorithm
@@ -11,4 +12,7 @@
 <br>
 <br>
 
-![types of data structures](../Assets/TypesOfAlgorithms.webp)
+![types of data structures](../Assets/TypesOfAlgorithms.png)
+
+---
+<br>
