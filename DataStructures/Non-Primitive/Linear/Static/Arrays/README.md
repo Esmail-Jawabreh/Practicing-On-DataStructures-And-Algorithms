@@ -47,7 +47,7 @@
 ##### Arrays are a fundamental building block for many algorithms and data manipulation operations. Sorting, searching, filtering, and many other operations often rely on arrays for efficient implementation and execution.
 
 - Interfacing with lower-level operations: 
-##### xArrays provide a convenient way to interface with lower-level operations and systems, such as interacting with memory, file I/O, or network protocols. They allow you to represent and manipulate data in a format that is compatible with these operations.
+##### Arrays provide a convenient way to interface with lower-level operations and systems, such as interacting with memory, file I/O, or network protocols. They allow you to represent and manipulate data in a format that is compatible with these operations.
 
 <br>
 <br>
@@ -93,53 +93,64 @@ name.insert(index, element)
 ```
 name.remove(element)
 ```
+<br>
 
 - append()
 ##### The append() method is a built-in function in Python that allows you to add an element to the end.
 ```
 name.append(element)
-
 ```
+<br>
+
 - extend()
 ##### The extend() method is a built-in function in Python that allows you to append elements from another iterable (such as a list, tuple, or string) to the end. 
 ```
 name.extend(iterable)
 ```
+<br>
 
 - pop()
 ##### The pop() method is a built-in function in Python that allows you to remove and retrieve an element from a specific position.
 ```
 name.pop(element)
 ```
+<br>
 
 - index()
 ##### The index() method is a built-in function in Python that allows you to find the index of the first occurrence of a specified element.
 ```
 name.index(element)
 ```
+<br>
+
 - reverse()
 ##### The reverse() method is a built-in function in Python that allows you to reverse the order of elements.
 ```
 name.reverse()
 ```
+<br>
 
 - buffer_info()
-##### The buffer_info() method is a method specific to the array module in Python. It returns a tuple containing information about the underlying buffer of an array object. This method provides details such as the address and size of the buffer, which can be useful for low-level operations.
+##### The buffer_info() method is a method specific to the array module in Python. It returns a tuple containing information about the underlying buffer of an array object. 
+##### This method provides details such as the address and size of the buffer, which can be useful for low-level operations.
 ```
 name.buffer_info()
 ```
+<br>
 
 - count()
 ##### The count() method is a built-in function in Python that allows you to count the number of occurrences of a specified element.
 ```
 name.count(element)
 ```
+<br>
 
 - tostring()
 ##### In Python, the tostring() method is not available for lists. However, if you are referring to the tostring() method in the array module, it is used to convert an array to a string of bytes.
 ```
 name.tostring()
 ```
+<br>
 
 - "slice"
 ##### A slice is a way to extract a portion of a sequence, such as a string, list, or tuple, in Python. It allows you to specify a range of indices to retrieve a subset of the elements from the original sequence.
@@ -147,7 +158,7 @@ name.tostring()
 sequence[start:end:step]
 ```
 
-
+<br>
 <br>
 
 ### Time and Space complexity of One Dimensional Array:
