@@ -5,7 +5,7 @@ arr = [1, 2, 3]
 # insert 4 in index [3]
 arr.insert(3, 4)
 print(arr)
-print("---")
+print("---\n")
 
 
 # traverse array \\ O(n)
@@ -15,7 +15,7 @@ def traverseArray(array):
 
 
 traverseArray(arr)
-print("---")
+print("---\n")
 
 
 # access Element \\ O(1)
@@ -27,7 +27,7 @@ def accessElement(array, index):
 
 
 accessElement(arr, 1)
-print("---")
+print("---\n")
 
 
 # search in Array \\ O(n)
@@ -40,10 +40,10 @@ def searchInArray(array, value):
 
 print(searchInArray(arr, 2))
 print(searchInArray(arr, 5))
-print("---")
+print("---\n")
 
 
 # remove 2
 arr.remove(2)
 print(arr)
-print("---")
+print("---\n")

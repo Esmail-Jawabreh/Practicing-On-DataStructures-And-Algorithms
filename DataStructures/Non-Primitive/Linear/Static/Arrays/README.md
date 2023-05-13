@@ -75,6 +75,9 @@
 <br>
 <br>
 
+---
+<br>
+
 ### Arrays is python
 
 #### The array module in Python provides a fixed-size array data type that is more memory-efficient compared to lists when storing large collections of homogeneous data. This module is particularly useful when dealing with numeric data.
@@ -166,3 +169,77 @@ sequence[start:end:step]
 
 <br>
 <br>
+
+---
+<br>
+
+### Numpy
+#### a powerful numerical computing library.
+#### provides functionality for working with large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
+<br>
+
+#### some key features and concepts of NumPy:
+<br>
+
+- Multi-dimensional arrays: 
+##### NumPy provides an ndarray object, which is a multi-dimensional array of homogeneous data types. These arrays can have any number of dimensions and are highly efficient for performing mathematical operations.
+<br>
+
+- Mathematical operations: 
+##### NumPy offers a wide range of mathematical functions that operate efficiently on arrays. These functions include basic arithmetic operations, trigonometric functions, exponential and logarithmic functions, linear algebra operations, random number generation, and more.
+<br>
+
+- Indexing and slicing: 
+##### NumPy provides powerful indexing and slicing capabilities for accessing and manipulating data within arrays. You can use indexing to access individual elements or subsets of elements in an array based on their position.
+<br>
+
+- Broadcasting: 
+##### Broadcasting is a powerful mechanism in NumPy that allows for arithmetic operations between arrays of different shapes. It simplifies computations by automatically expanding smaller arrays to match the shape of larger arrays.
+<br>
+
+- Vectorized operations: 
+##### NumPy encourages the use of vectorized operations, which perform computations on entire arrays rather than using explicit loops. This approach is more efficient and concise, as it leverages highly optimized C and Fortran code behind the scenes.
+<br>
+
+- Integration with other libraries: 
+##### NumPy integrates well with other scientific computing libraries in Python, such as SciPy (for scientific computations), Matplotlib (for plotting and visualization), and pandas (for data manipulation and analysis).
+
+<br>
+<br>
+
+### Time and Space complexity of Two Dimensional Array:
+![Two-Dimensional-Array](../../../../../Assets/Two-Dimensional-Array.png)
+
+<br>
+<br>
+
+---
+
+### When to use\avoid Arrays
+
+#### When to use:
+- Sequential access: 
+##### Arrays provide efficient sequential access to elements based on their indices. If you need to access elements in a predictable order or perform operations like sorting or searching, arrays can be a good choice.
+
+- Fixed-size collection: 
+##### If you know the exact number of elements you need to store in advance and it won't change, arrays can be a suitable option. They have a fixed size, which can be advantageous in terms of memory efficiency and performance.
+
+- Homogeneous data: 
+##### If you have a collection of elements that are all of the same data type, arrays can provide a straightforward way to store and access them.
+
+<br>
+
+#### When to avoid:
+- Dynamic size requirements: 
+##### If the number of elements you need to store can change dynamically, arrays may not be the best choice. Resizing an array can be inefficient, as it often requires allocating a new array and copying elements.
+
+- Insertion and deletion: 
+##### If you frequently need to insert or delete elements within a collection, arrays may not be the most efficient data structure. Shifting elements to accommodate changes can be time-consuming.
+
+- Heterogeneous data: 
+##### If you need to store elements of different types or structures, arrays may not be suitable. Other data structures like lists or dictionaries that allow for flexible data types can be more appropriate.
+<br>
+
+---
+---
+---
