@@ -32,7 +32,9 @@ Linear
 
 <li>Static
 <ul> 
-<li>Array</li>
+<li>Array-List</li>
+<li>dictionary</li>
+<li>Tuple</li>
 </ul>
 </li>
 
