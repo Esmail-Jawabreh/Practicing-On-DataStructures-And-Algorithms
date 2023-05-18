@@ -14,15 +14,20 @@
 <br>
 
 #### Data Structure:
+
 - List: 
 ##### A list in Python is a built-in data structure that can hold elements of different data types. It is a dynamic and ordered collection of items, allowing duplicates and supporting various operations like indexing, slicing, appending, and more. Lists are implemented as resizable arrays internally, which means they can grow or shrink as needed.
+<br>
+
 - Array: 
 ##### Arrays in Python are provided by external libraries such as NumPy and array module. They are fixed-size, homogeneous collections of elements of the same data type. Arrays offer high-performance operations on large datasets and support various mathematical operations.
-<br>
+
 
 #### Data Type:
 - List: 
 ##### A list can store elements of different data types. For example, a list can contain integers, strings, or even other lists.
+<br>
+
 - Array: 
 ##### Arrays store elements of the same data type. If you create an array of integers, it can only store integers and not other data types.
 <br>
@@ -30,6 +35,8 @@
 #### Memory Efficiency:
 - List: 
 ##### Lists in Python are more flexible in terms of memory usage since they can dynamically grow or shrink. However, this flexibility comes at the cost of slightly higher memory overhead.
+<br>
+
 - Array: 
 ##### Arrays are more memory-efficient compared to lists because they store elements in a contiguous block of memory. This results in better performance for large datasets but requires a fixed size during creation.
 <br>
@@ -37,6 +44,8 @@
 #### Performance:
 - List: 
 ##### Lists provide a wide range of operations and methods, but they may not be as efficient as arrays when it comes to mathematical operations or processing large amounts of numerical data.
+<br>
+
 - Array: 
 ##### Arrays are optimized for numerical computations and offer efficient mathematical operations due to their homogeneous nature. They are widely used for scientific computing, data analysis, and other numerical tasks.
 <br>
@@ -102,3 +111,7 @@
 
 ### Time and Space complexity of Lists:
 ![Lists](../../../../../Assets/Lists.png)
+
+---
+---
+---

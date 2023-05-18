@@ -139,3 +139,7 @@ dictionary.update(iterable)
 
 ### Time and Space complexity of dictionary:
 ![dictionary](../../../../../Assets/dictionary.png)
+
+---
+---
+---

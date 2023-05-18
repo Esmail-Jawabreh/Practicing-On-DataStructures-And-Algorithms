@@ -22,18 +22,31 @@
 
 #### Data structures allow us to organize and store data, while algorithms allow us to process that data in a meaningful way.
 #### Data structures and algorithms (DSA) goes through solutions to standard problems in detail and gives you an insight into how efficient it is to use each one of them.
+<br>
 
 #### also they are important for several reasons:
+<br>
+
 - Efficiency: 
 ##### By using the appropriate data structures and algorithms, we can optimize the time and space complexity of our programs. This means that our programs can run faster and use less memory, making them more efficient.
+<br>
+
 - Scalability: 
 ##### As the amount of data we need to process increases, the importance of data structures and algorithms becomes even more pronounced. Without efficient data structures and algorithms, our programs may not be able to handle large amounts of data.
+<br>
+
 - Reusability: 
 ##### Data structures and algorithms are reusable building blocks that can be used in different programs and applications. This means that once we have implemented a data structure or algorithm, we can reuse it in other projects, saving time and effort.
+<br>
+
 - Problem solving: 
 ##### Data structures and algorithms provide a framework for solving complex problems. By breaking down a problem into smaller sub-problems and applying appropriate data structures and algorithms, we can develop elegant and efficient solutions.
+<br>
+
 - Common interview topic: 
 ##### Data structures and algorithms are also important for job interviews in the computer science field. Many companies use them as a basis for technical interviews and assess a candidate's ability to implement and use them effectively.
+<br>
+
 ---
 <br>
 
