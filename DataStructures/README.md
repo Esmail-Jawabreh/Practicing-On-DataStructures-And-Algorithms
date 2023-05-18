@@ -23,7 +23,7 @@
 
             - [Array](./Non-Primitive/Linear/Static/Arrays/)
             - [List](./Non-Primitive/Linear/Static/Lists/)
-            - [dictionary](./Non-Primitive/Linear/Static/Dictionaries/)
+            - [Dictionary](./Non-Primitive/Linear/Static/Dictionaries/)
             - [Tuple](./Non-Primitive/Linear/Static/Tuples/) <br> <br>
 
         - Dynamic
