@@ -21,21 +21,22 @@
 
         - Static
 
-            - Array-List
-            - dictionary
-            - Tuple <br> <br>
+            - [Array](./Non-Primitive/Linear/Static/Arrays/)
+            - [List](./Non-Primitive/Linear/Static/Lists/)
+            - [dictionary](./Non-Primitive/Linear/Static/Dictionaries/)
+            - [Tuple](./Non-Primitive/Linear/Static/Tuples/) <br> <br>
 
         - Dynamic
 
-            - Linked List
-            - Stack 
-            - Queue <br> <br>
+            - [Linked List](./Non-Primitive/Linear/Dynamic/Linked-List/)
+            - [Stack](./Non-Primitive/Linear/Dynamic/Stack/)
+            - [Queue](./Non-Primitive/Linear/Dynamic/Queue/) <br> <br>
 
 
     - Non Linear
 
-        - Tree
-        - Graph
+        - [Tree](./Non-Primitive/Non-Linear/Tree/)
+        - [Graph](./Non-Primitive/Non-Linear/Graph/)
 
 
 
