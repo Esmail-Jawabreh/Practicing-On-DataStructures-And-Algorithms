@@ -3,70 +3,43 @@
 
 ### Types of Data Structures:
 <br>
-<ul>
 
+- <strong>Primitive</strong>
 
-<li>
-<strong>Primitive</strong>
-<ul>
-<br>
-<li>Integer</li>
-<li>Float</li>
-<li>Character</li>
-<li>String</li>
-<li>Boolean</li>
-</ul>
-</li>
+    - Integer
+    - Float
+    - Character
+    - String
+    - Boolean
 
 <br>
 <br>
 
-<li>
-<strong>Non Primitive</strong>
-<ul>
+- <strong>Non Primitive</strong>
 
-<br>
-<li>
-Linear
-<ul>
+    - Linear
 
-<li>Static
-<ul> 
-<li>Array-List</li>
-<li>dictionary</li>
-<li>Tuple</li>
-</ul>
-</li>
+        - Static
 
-<br>
+            - Array-List
+            - dictionary
+            - Tuple <br> <br>
 
-<li>Dynamic
-<ul> 
-<li>Linked List</li>
-<li>Stack</li>
-<li>Queue</li>
-</ul>
-</li>
+        - Dynamic
 
-</ul>
-</li>
+            - Linked List
+            - Stack 
+            - Queue <br> <br>
 
 
-<br>
+    - Non Linear
+
+        - Tree
+        - Graph
 
 
-<li>
-Non Linear
-<ul>
-<li>Tree</li>
-<li>Graph</li>
-</ul>
-</li>
 
-</ul>
-</li>
 
-</ul>
 <br>
 <br>
 
